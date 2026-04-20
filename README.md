@@ -1,6 +1,7 @@
  DVWA SQL Injection Assessment
 
  Project Overview
+ 
 This project demonstrates the identification and exploitation of SQL Injection vulnerabilities in a controlled lab environment using Damn Vulnerable Web Application (DVWA).  
 The goal is to showcase penetration testing methodology, highlight insecure coding practices, and recommend secure development techniques.
 
