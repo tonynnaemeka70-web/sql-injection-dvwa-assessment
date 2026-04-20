@@ -39,7 +39,8 @@ The goal is to showcase penetration testing methodology, highlight insecure codi
 
 
  Screenshots
-Screenshots of each step are available in the [`/screenshots`](./screenshots) folder.
+ 
+Screenshots of each step are available in the [`/screenshots`](./screenshots folder.
 
 
 
